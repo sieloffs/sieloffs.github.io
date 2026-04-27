@@ -34,5 +34,3 @@ Self-driven projects focused on ML, analytics, and experimentation.
 
 ### 🎓 School
 Academic projects and coursework.
-
-→ [View School Projects](/projects-school)
