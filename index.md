@@ -13,7 +13,7 @@ I build data driven projects in machine learning, analytics, and business intell
 ## Check out some of my Featured Work
 
 ### NHL Goalie Performance Model
-<div style="border:1px solid #e5e5e5; padding:18px; border-radius:12px; margin:20px 0;">
+
 Predicts expected goals allowed using historical goalie performance data.
 
 - Decayed weighting for recent performance trends  
