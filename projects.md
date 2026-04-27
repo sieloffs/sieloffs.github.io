@@ -23,14 +23,12 @@ title: Projects
 ### 💼 Work
 Projects built in professional or real-world environments.
 
-→ [View Work Projects](/projects-work)
+
 
 ---
 
 ### 🧠 Personal
 Self-driven projects focused on ML, analytics, and experimentation.
-
-→ [View Personal Projects](/projects-personal)
 
 ---
 
