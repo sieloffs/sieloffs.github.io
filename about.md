@@ -5,7 +5,7 @@ title: About Me
 
 # Hi, I’m Sam Sieloff
 
-<p align="center">
+<p align="left">
   <img src="images/Headshot.jpg" alt="Headshot" width="200">
 </p>
 
