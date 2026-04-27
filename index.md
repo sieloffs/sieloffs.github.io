@@ -1,6 +1,7 @@
----
-layout: home
-title: Home
----
+# Welcome
 
-Welcome to my site
+This is my website built with Jekyll.
+
+## Projects
+- Project 1
+- Project 2
