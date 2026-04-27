@@ -36,7 +36,13 @@ I’m especially interested in roles where I can combine technical modeling with
 
 When I’m not working with data, I’m usually:
 - Riding my bike or at the gym
-- Watching some of favorite teams (Milwaukee Brewers, Green Bay Packers, UNC/Purdue Basketball, etc.)
+- Watching some of favorite teams
+<p align="center">
+  <img src="images/Brewers.png" width="100" style="margin: 5px;">
+  <img src="images/Packers.png" width="100" style="margin: 5px;">
+  <img src="images/Purdue.jpg" width="100" style="margin: 5px;">
+  <img src="images/UNC.png" width="100" style="margin: 5px;">
+</p>
 - Reading a good book
 - Traveling 
 
