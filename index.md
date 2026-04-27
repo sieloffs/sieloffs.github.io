@@ -16,15 +16,12 @@ I build data-driven projects in machine learning, analytics, and business intell
 - Feature engineering: momentum, volatility, rolling averages  
 - Ensemble approach improved baseline performance  
 
-[View Project](/projects#featured-projects)
 
 ---
 
 ### 🏥 Healthcare Power BI Dashboard
 - Built interactive dashboard across 20+ facilities  
 - Enabled sales teams to analyze demand and performance  
-
-[View Project](/projects#featured-projects)
 
 ---
 
