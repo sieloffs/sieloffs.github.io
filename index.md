@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Welcome!
 ---
 
 # Hi, I’m Sam Sieloff
@@ -29,3 +29,11 @@ I build data driven projects in machine learning, analytics, and business intell
 
 - 📁 [Projects](/projects)
 - 👤 [About Me](/about)
+
+---
+
+## Connect with me!
+Feel free to reach out if you'd like to connect or talk about projects.
+
+- 💼 **LinkedIn:** [linkedin.com/in/sam-sieloff-86a03116a](https://www.linkedin.com/in/sam-sieloff-86a03116a/)
+- 📧 **Email:** [sam.sieloff@outlook.com](mailto:sam.sieloff@outlook.com)
