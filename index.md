@@ -16,16 +16,15 @@ I build data driven projects in machine learning, analytics, and business intell
 
 Predicts expected goals allowed using historical goalie performance data.
 
-- Decayed weighting for recent performance trends  
-- Rolling window feature engineering  
-- Built for lineup decision support insights  
+- Designed for potential use in goalie start/bench decision making  
+- Feature engineering:
+  - Decayed game weighting (recent performance emphasis)
+  - Rolling windows for goals allowed and workload trends  
 
 <br>
 <a href="/projects-personal#nhl" style="display:inline-block; padding:8px 12px; background:#000; color:#fff; border-radius:6px; text-decoration:none;">
 View Project
 </a>
-
-</div>
 
 ---
 
