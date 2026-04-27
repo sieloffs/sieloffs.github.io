@@ -4,6 +4,7 @@ title: Welcome!
 ---
 
 # Hi, I’m Sam Sieloff
+Data Analytics • Machine Learning • Sports Modeling
 
 I build data driven projects in machine learning, analytics, and business intelligence.
 
