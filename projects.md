@@ -1,7 +1,6 @@
-
 ---
-layout: page
-title: Projects
+layout: home
+title: Home
 ---
 
-## Projects
+## Projects Page
