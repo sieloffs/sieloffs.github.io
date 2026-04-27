@@ -1,3 +1,7 @@
 theme: minimal-light
 title: My Site
 description: My portfolio and projects
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
