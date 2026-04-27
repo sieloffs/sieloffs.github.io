@@ -20,24 +20,16 @@ Outside of data work, I’ve competed at a high level in both baseball (playing 
 ## What I’m Interested In
 
 - Sports analytics (MLB, NASCAR, NHL)
-- Fantasy Sports/Gambling (I haven't figured out how to beat Vegas yet)
-- 
+- Fantasy Sports and Sports Betting (Still trying to figure out how to consistently beat Vegas...)
+- Sports Science and keeping athletes on the field
 
 ---
 
-## Long-Term Goals
-
-My long-term goal is to contribute to the sports analytics industry either in a team, league, or media setting where data can directly influence strategy, performance evaluation, and fan understanding of the game.
-
-I’m especially interested in roles where I can combine technical modeling with real world sports decision making.
-
----
-
-## Outside of Work
+## Interstests Outside of Work
 
 When I’m not working with data, I’m usually:
-- Riding my bike or at the gym
-- Watching some of favorite teams
+
+### Watching some of favorite teams
   
 <p align="left">
   <img src="images/Brewers 1.png" width="100" style="margin: 10px;">
@@ -46,8 +38,11 @@ When I’m not working with data, I’m usually:
   <img src="images/UNC.png" width="100" style="margin: 10px;">
 </p>
 
+### Other interests
 - Reading a good book
 - Traveling with my fiancée
+- Riding my bike and training for my next race
+- Playing Piano. I've played for 20+ years and perform at weddings, funerals, and weekly in our church worship group 
 
 ---
 
