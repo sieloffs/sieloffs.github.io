@@ -21,7 +21,7 @@ Outside of data work, I’ve competed at a high level in both baseball (playing 
 
 - Sports analytics (MLB, NASCAR, NHL)
 - Fantasy Sports and Sports Betting (Still trying to figure out how to consistently beat Vegas...)
-- Sports Science and keeping athletes on the field
+- Sports science and performance optimization. Keeping athletes on the field and performing at their best  
 
 ---
 
@@ -48,7 +48,7 @@ When I’m not working with data, I’m usually:
 
 ## Let’s Connect
 
-If you’re interested in collaboration, sports analytics, or just want to talk data, feel free to reach out.
+If anything here caught your eye, please reach out! I’m always open to talking about collaborations or just chatting about sports, data, and anything in between.
 
 
 
