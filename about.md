@@ -5,6 +5,10 @@ title: About Me
 
 # Hi, I’m Sam Sieloff
 
+<p align="center">
+  <img src="images/Headshot.jpg" alt="Headshot" width="200">
+</p>
+
 I’m a Data Analyst with a passion for turning messy data into clear, actionable insights. I currently work on building scalable reporting and analytics solutions that support decision-making at the leadership level.
 
 Over time, I’ve developed a strong interest in how data can be applied to sports especially in areas like MLB, NASCAR, and NHL analytics. On the side, I build personal projects that explore performance modeling, predictive analysis, and sports storytelling through data.
