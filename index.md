@@ -12,11 +12,23 @@ I build data driven projects in machine learning, analytics, and business intell
 
 ## Check out some of my Featured Work
 
-### NHL Goalie Prediciton Model
-- Machine learning model predicting 2-week stock returns  
-- Feature engineering: momentum, volatility, rolling averages  
-- Ensemble approach improved baseline performance  
+<div style="border:1px solid #e5e5e5; padding:18px; border-radius:12px; margin:20px 0;">
 
+### NHL Goalie Performance Model
+
+Predicts expected goals allowed using historical goalie performance data.
+
+- Decayed weighting for recent performance trends  
+- Rolling window feature engineering  
+- Built for lineup decision support insights  
+
+<br>
+
+<a href="/projects-personal#nhl" style="display:inline-block; padding:8px 12px; background:#000; color:#fff; border-radius:6px; text-decoration:none;">
+View Project →
+</a>
+
+</div>
 
 ---
 
