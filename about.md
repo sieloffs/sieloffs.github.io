@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me!
 ---
 
-I’m building data + ML projects to showcase.
+Hi! My name is Sam Sieloff
