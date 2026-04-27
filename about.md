@@ -38,7 +38,7 @@ When I’m not working with data, I’m usually:
 - Riding my bike or at the gym
 - Watching some of favorite teams
 <p align="left">
-  <img src="images/Brewers.png" width="100" style="margin: 10px;">
+  <img src="images/Brewers 1.png" width="100" style="margin: 10px;">
   <img src="images/Packers.png" width="100" style="margin: 10px;">
   <img src="images/Purdue.jpg" width="100" style="margin: 10px;">
   <img src="images/UNC.png" width="100" style="margin: 10px;">
