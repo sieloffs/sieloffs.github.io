@@ -9,18 +9,19 @@ title: About Me
   <img src="images/Headshot.jpg" alt="Headshot" width="200">
 </p>
 
-I’m a Data Analyst with a passion for turning messy data into clear, actionable insights. I currently work on building scalable reporting and analytics solutions that support decision-making at the leadership level.
+I’m a Data Scientist with a passion for turning messy data into clear, actionable insights. I currently build scalable reporting and analytics solutions that support decision making at the leadership level.
 
-Over time, I’ve developed a strong interest in how data can be applied to sports especially in areas like MLB, NASCAR, and NHL analytics. On the side, I build personal projects that explore performance modeling, predictive analysis, and sports storytelling through data.
+My interest in data and sports goes back as far as I can remember. It started with tracking stats for “fake” wiffleball games in the backyard and eventually evolved into something I’ve carried into my career and personal projects. Over time, that curiosity turned into a deeper focus on understanding performance through numbers, patterns, and trends.
+
+Outside of data work, I’ve competed at a high level in both baseball (playing through college) and cycling, where I still race in local and regional mountain biking events. Those experiences continue to shape how I think about performance, competition, and the stories behind the numbers.
 
 ---
 
 ## What I’m Interested In
 
 - Sports analytics (MLB, NASCAR, NHL)
-- Machine learning and predictive modeling
-- Data visualization and storytelling
-- Building tools that make data more accessible
+- Fantasy Sports/Gambling (I haven't figured out how to beat Vegas yet)
+- 
 
 ---
 
@@ -37,14 +38,16 @@ I’m especially interested in roles where I can combine technical modeling with
 When I’m not working with data, I’m usually:
 - Riding my bike or at the gym
 - Watching some of favorite teams
+  
 <p align="left">
   <img src="images/Brewers 1.png" width="100" style="margin: 10px;">
   <img src="images/Packers.png" width="100" style="margin: 10px;">
   <img src="images/Purdue.jpg" width="100" style="margin: 10px;">
   <img src="images/UNC.png" width="100" style="margin: 10px;">
 </p>
+
 - Reading a good book
-- Traveling 
+- Traveling with my fiancée
 
 ---
 
