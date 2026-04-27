@@ -3,15 +3,15 @@ layout: home
 title: Home
 ---
 
-# 👋 Hi, I’m Sam Sieloff
+# Hi, I’m Sam Sieloff
 
-I build data-driven projects in machine learning, analytics, and business intelligence.
+I build data driven projects in machine learning, analytics, and business intelligence.
 
 ---
 
-## 🚀 Featured Work
+## Check out some of my Featured Work
 
-### 📊 Stock Prediction Model
+### NHL Goalie Prediciton Model
 - Machine learning model predicting 2-week stock returns  
 - Feature engineering: momentum, volatility, rolling averages  
 - Ensemble approach improved baseline performance  
@@ -19,13 +19,13 @@ I build data-driven projects in machine learning, analytics, and business intell
 
 ---
 
-### 🏥 Healthcare Power BI Dashboard
+### Power BI Sales Dashboard
 - Built interactive dashboard across 20+ facilities  
 - Enabled sales teams to analyze demand and performance  
 
 ---
 
-## 🧭 Explore
+## Explore
 
 - 📁 [Projects](/projects)
 - 👤 [About Me](/about)
