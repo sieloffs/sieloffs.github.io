@@ -30,7 +30,6 @@ Worked with a team to move beyond traditional stats by focusing on recent perfor
    target="_blank"
    style="display:inline-block; padding:8px 12px; background:#000; color:#fff; border-radius:6px; text-decoration:none;">
    Open Notebook
-</a>
 
 <a href="/images/Final_Report_DATA780.pdf" 
    target="_blank"
