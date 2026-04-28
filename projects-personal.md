@@ -45,7 +45,7 @@ Worked with a team to move beyond traditional stats by focusing on recent perfor
 
 ### Slow Pit Stop Model {#nhl-goalie}
 <p align="left">
-  <img src="images/pit-crew.jpg" width="500" style="border-radius:10px;">
+  <img src="images/Pit Crew.jpg" style="border-radius:10px;">
 </p>
 
 Update this section
