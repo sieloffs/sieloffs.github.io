@@ -34,6 +34,10 @@ View Project
 
 ### NASCAR Pit Stop Performance Model
 
+<p align="left">
+  <img src="images/Slow Stops.png" width="500" style="border-radius:10px;">
+</p>
+
 Analyzes NASCAR pit stop data to understand how pit crew performance impacts race outcomes across the 2024 season.
 
 - Evaluates how pit stop efficiency influences finishing position  
