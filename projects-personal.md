@@ -21,8 +21,18 @@ Traditional metrics like Goals Against Average (GAA) and save percentage provide
 
 This project builds a machine learning model to predict expected goals allowed by a goaltender in a given game using only pre-game data. Instead of relying on full-season averages, the model emphasizes recent performance through weighted and rolling statistics, while also incorporating game context such as opponent strength, home/away status, and recent team trends.
 
-👉 [Open Notebook Code (Colab)](https://colab.research.google.com/drive/1xLgFPd02bLSix9enssZa6-FV2z_4aMkM?usp=sharing)
-👉 [Full Project Report](Final_Report_DATA780.pdf)
+
+<a href="https://colab.research.google.com/drive/1xLgFPd02bLSix9enssZa6-FV2z_4aMkM?usp=sharing" 
+   target="_blank"
+   style="display:inline-block; padding:8px 12px; background:#000; color:#fff; border-radius:6px; text-decoration:none;">
+   Open Notebook
+</a>
+
+<a href="/images/Final_Report_DATA780.pdf" 
+   target="_blank"
+   style="display:inline-block; padding:8px 12px; background:#eee; color:#000; border-radius:6px; text-decoration:none; margin-left:8px;">
+   Full Report
+</a>
 
 # 🧰 Tools & Techniques
 
