@@ -11,9 +11,15 @@ My interests center around applying data science to sports like **MLB, NASCAR, a
 
 ---
 
-# NHL Analytics
+<h2>
+   Hockey Analytics
+  <img src="images/Hockey.jpg" width="30" style="vertical-align:middle; margin-right:8px;">
+</h2>
 
 ### Goalie Selection Model {#nhl-goalie}
+<p align="left">
+  <img src="images/Goalies.jpg" width="500" style="border-radius:10px;">
+</p>
 
 Built a machine learning model using millions of NHL tracking data points to explore how teams can make better goalie start decisions.
 
