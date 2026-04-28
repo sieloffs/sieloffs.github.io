@@ -40,7 +40,7 @@ Worked with a team to move beyond traditional stats by focusing on recent perfor
 ---
 <h2>
    NASCAR Analytics
-  <img src="images/nascar.png" width="30" style="vertical-align:middle; margin-right:8px;">
+  <img src="images/nascar.png" width="100" style="vertical-align:middle; margin-right:8px;">
 </h2>
 
 ### Slow Pit Stop Model {#nhl-goalie}
