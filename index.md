@@ -32,7 +32,7 @@ View Project
 Update this section
 
 <br>
-<a href="/projects-personal#pit-stop" style="display:inline-block; padding:8px 12px; background:#000; color:#fff; border-radius:6px; text-decoration:none;">
+<a href="/projects-personal#Pit-Stop" style="display:inline-block; padding:8px 12px; background:#000; color:#fff; border-radius:6px; text-decoration:none;">
 View Project
 </a>
 
