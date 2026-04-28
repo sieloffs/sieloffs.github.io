@@ -15,11 +15,9 @@ My interests center around applying data science to sports like **MLB, NASCAR, a
 
 ### Goalie Selection Model {#nhl-goalie}
 
-In professional hockey, choosing which goaltender to start on a given night is one of the most important decisions a coaching staff makes. This challenge was highlighted during the 2026 Winter Olympics, where even elite teams debated which of the world’s best goalies should start. Similar decisions happen every night in the NHL, where teams must choose between multiple capable goaltenders.
+Built a machine learning model using millions of NHL tracking data points to explore how teams can make better goalie start decisions.
 
-Traditional metrics like Goals Against Average (GAA) and save percentage provide a baseline view of performance, but they fail to capture important context such as opponent strength, recent workload, and game conditions. As a result, they are often insufficient for making optimal starting decisions.
-
-This project builds a machine learning model to predict expected goals allowed by a goaltender in a given game using only pre-game data. Instead of relying on full-season averages, the model emphasizes recent performance through weighted and rolling statistics, while also incorporating game context such as opponent strength, home/away status, and recent team trends.
+Worked with a team to move beyond traditional stats by focusing on recent performance trends using weighted game history and rolling metrics to better reflect how goalies are actually playing going into a game.
 
 
 <a href="https://colab.research.google.com/drive/1xLgFPd02bLSix9enssZa6-FV2z_4aMkM?usp=sharing" 
@@ -30,7 +28,7 @@ This project builds a machine learning model to predict expected goals allowed b
 
 <a href="/images/Final_Report_DATA780.pdf" 
    target="_blank"
-   style="display:inline-block; padding:8px 12px; background:#eee; color:#000; border-radius:6px; text-decoration:none; margin-left:8px;">
+   style="display:inline-block; padding:8px 12px; background:#000; color:#fff; border-radius:6px; text-decoration:none; margin-left:8px;">
    Full Report
 </a>
 
