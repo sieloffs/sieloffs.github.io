@@ -4,13 +4,20 @@ title: Welcome!
 ---
 
 # Hi, I’m Sam Sieloff
-Data Analytics • Machine Learning • Sports Modeling
 
-I build data driven projects in machine learning, analytics, and business intelligence.
+**Data Scientist • Machine Learning • Sports Analytics**
+
+I build data driven models and analytics systems that turn complex data into clear, actionable insights.
+
+My work spans both business intelligence and sports analytics ranging from executive reporting dashboards at companies like **Newell Brands** and **Lids**, to predictive modeling projects in MLB, NHL, and NASCAR.
+
+I’m especially interested in how data can improve decision making in competitive environments, whether that’s in a boardroom or on the field.
 
 ---
 
-## Check out some of my Featured Work
+# Featured Work
+
+A few projects I’ve built across analytics, machine learning, and sports modeling:
 
 ### NHL Goalie Performance Model
 
