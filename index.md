@@ -22,7 +22,7 @@ Predicts expected goals allowed using historical goalie performance data.
   - Rolling windows for goals allowed and workload trends  
 
 <br>
-<a href="/projects-personal#nhl" style="display:inline-block; padding:8px 12px; background:#000; color:#fff; border-radius:6px; text-decoration:none;">
+<a href="/projects-personal#nhl-goalie" style="display:inline-block; padding:8px 12px; background:#000; color:#fff; border-radius:6px; text-decoration:none;">
 View Project
 </a>
 
