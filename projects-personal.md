@@ -57,12 +57,10 @@ This project explored how pit stop efficiency relates to finishing position by a
 
 Key findings showed that slow pit stops have a measurable impact on race results, with each slow stop associated with roughly one lost finishing position. Driver consistency over the season also emerged as a strong predictor of race outcomes, even more so than starting position in many cases.
 
-<br>
-
 <a href="https://github.com/sieloffs/NASCAR-Analytics/blob/main/Data%20720%20Final%20Project.ipynb" 
    target="_blank"
    style="display:inline-block; padding:8px 12px; background:#000; color:#fff; border-radius:6px; text-decoration:none;">
-   Open Notebook
+   Open GitHub Code
 </a>
 
 ---
