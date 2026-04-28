@@ -37,6 +37,22 @@ Worked with a team to move beyond traditional stats by focusing on recent perfor
    Full Report
 </a>
 
+---
+<h2>
+   NASCAR Analytics
+  <img src="images/nascar.png" width="30" style="vertical-align:middle; margin-right:8px;">
+</h2>
+
+### Slow Pit Stop Model {#nhl-goalie}
+<p align="left">
+  <img src="images/pit=crew.jpg" width="500" style="border-radius:10px;">
+</p>
+
+Update this section
+
+---
+
+
 # 🧰 Tools & Techniques
 
 - Python (pandas, scikit-learn, XGBoost)  
