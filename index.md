@@ -14,6 +14,11 @@ I build data driven projects in machine learning, analytics, and business intell
 
 ### NHL Goalie Performance Model
 
+<h2>
+   Hockey Analytics
+  <img src="images/Hockey.jpg" width="30" style="vertical-align:middle; margin-right:8px;">
+</h2>
+
 Predicts expected goals allowed using historical NHL goalie performance data to support game to game starting decisions.
 
 - Built to help evaluate goalie performance beyond traditional stats  
