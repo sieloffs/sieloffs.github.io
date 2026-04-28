@@ -27,10 +27,16 @@ View Project
 </a>
 
 ---
+### NASCAR Pit Stop Model
 
-### Power BI Sales Dashboard
-- Built interactive dashboard across 20+ facilities  
-- Enabled sales teams to analyze demand and performance  
+Update this section
+
+<br>
+<a href="/projects-personal#pit-stop" style="display:inline-block; padding:8px 12px; background:#000; color:#fff; border-radius:6px; text-decoration:none;">
+View Project
+</a>
+
+---
 
 ---
 
