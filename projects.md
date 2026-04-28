@@ -5,30 +5,31 @@ title: Projects
 
 # About My Work
 
-I’m a Data Analyst who has built scalable reporting and analytics solutions for senior leadership at companies like **Newell Brands** and **Lids**. My work focuses on transforming complex data into actionable insights through dashboards, automation, and analytics systems used for decision making at scale.
+I’m a Data Scientist with experience building scalable reporting and analytics solutions for senior leadership at companies like **Newell Brands** and **Lids**. My focus is on transforming complex datasets into clear, actionable insights through dashboards, automation, and decision support analytics.
 
-Outside of my professional work, I build personal projects driven by my passion for sports analytics including MLB, NASCAR, and NHL where I explore predictive modeling, performance analysis, and statistical storytelling.
+Outside of my professional work, I build personal projects centered around sports analytics including MLB, NASCAR, and NHL where I explore predictive modeling, performance analysis, and statistical storytelling.
+
+---
+
+## Projects Overview
+
+Explore my work below by category.
 
 ---
 
-### Projects Overview
+# 💼 Professional / Work Projects
 
-Choose a category below to explore my work:
+Business-focused analytics projects centered on reporting, dashboards, and executive decision-making.
 
----
-## Professional / Work Projects
-
-Projects built in business environments focused on reporting, dashboards, and leadership insights.
-
-- 📊 [Executive Reporting Systems](/projects-work#executive_reporting)
+- 📊 [Executive Reporting Systems](/projects-work#executive_reporting)  
 - 🏥 [Operational Analytics Dashboards](/projects-work#dashboards)
 
 ---
 
-- ## Personal Projects (Sports Analytics)
+# ⚾🏒🏎️ Personal Projects (Sports Analytics)
 
-Data science projects driven by sports interests and experimentation with modeling techniques.
+Data science projects driven by my interest in sports, modeling, and performance analytics across different leagues.
 
-- ⚾ [MLB Performance Model](/projects-personal#mlb)
-- 🏎️ [NASCAR Race Analytics](/projects-personal#nascar)
-- 🏒 [NHL Shot & Player Analysis](/projects-personal#nhl)
+- ⚾ [MLB Performance Model](/projects-personal#mlb)  
+- 🏎️ [NASCAR Race Analytics](/projects-personal#Pit-Stops)  
+- 🏒 [NHL Goalie Performance Model](/projects-personal#nhl-goalie)
