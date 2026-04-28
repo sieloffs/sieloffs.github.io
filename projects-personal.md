@@ -11,50 +11,19 @@ My interests center around applying data science to sports like **MLB, NASCAR, a
 
 ---
 
-# ⚾ MLB Analytics
+# NHL Analytics
 
-### 📊 MLB Performance Model
-- Built predictive model analyzing player performance trends  
-- Engineered features such as rolling averages, momentum, and matchup effects  
-- Explored statistical drivers of offensive production  
+### Goalie Selection Model {#nhl-goalie}
 
-[View Project](/projects-personal#mlb)
+In professional hockey, choosing which goaltender to start on a given night is one of the most important decisions a coaching staff makes. This challenge was highlighted during the 2026 Winter Olympics, where even elite teams debated which of the world’s best goalies should start. Similar decisions happen every night in the NHL, where teams must choose between multiple capable goaltenders.
 
----
+Traditional metrics like Goals Against Average (GAA) and save percentage provide a baseline view of performance, but they fail to capture important context such as opponent strength, recent workload, and game conditions. As a result, they are often insufficient for making optimal starting decisions.
 
-### 📈 MLB Player Value Analysis
-- Evaluated player performance using advanced metrics (wRC+, OPS+, etc.)  
-- Compared traditional stats vs modern sabermetric indicators  
-- Identified undervalued player profiles  
+This project builds a machine learning model to predict expected goals allowed by a goaltender in a given game using only pre-game data. Instead of relying on full-season averages, the model emphasizes recent performance through weighted and rolling statistics, while also incorporating game context such as opponent strength, home/away status, and recent team trends.
 
----
-
-# 🏎️ NASCAR Analytics
-
-### 🏁 Race Performance Modeling
-- Analyzed race data to identify performance patterns  
-- Explored track-specific driver advantages  
-- Built exploratory models for finishing position prediction  
-
----
-
-# 🏒 NHL Analytics
-
-### 🏒 Shot & Player Analysis
-- Studied shot locations and scoring probability trends  
-- Analyzed player impact using on-ice/off-ice metrics  
-- Built visualizations of shot distributions  
-
----
-
-# 🧠 General Machine Learning Projects
-
-### 📉 Predictive Modeling Experiments
-- Tested multiple ML models (XGBoost, regression, ensembles)  
-- Focused on feature engineering and model comparison  
-- Evaluated performance using cross-validation  
-
----
+👉 [Open Notebook (Colab)](https://colab.research.google.com/drive/1xLgFPd02bLSix9enssZa6-FV2z_4aMkM?usp=sharing)
+👉 [View Code on GitHub](YOUR_GITHUB_LINK)  
+👉 [Full Project Report](YOUR_REPORT_LINK)
 
 # 🧰 Tools & Techniques
 
