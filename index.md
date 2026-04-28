@@ -14,10 +14,9 @@ I build data driven projects in machine learning, analytics, and business intell
 
 ### NHL Goalie Performance Model
 
-<h2>
-   Hockey Analytics
-  <img src="images/Hockey.jpg" width="30" style="vertical-align:middle; margin-right:8px;">
-</h2>
+<p align="left">
+  <img src="images/Goalies.jpg" width="500" style="border-radius:10px;">
+</p>
 
 Predicts expected goals allowed using historical NHL goalie performance data to support game to game starting decisions.
 
@@ -27,12 +26,12 @@ Predicts expected goals allowed using historical NHL goalie performance data to 
   - Decayed game weighting (recent performance emphasis)
   - Rolling windows for workload and goals allowed trends 
 
-<br>
 <a href="/projects-personal#nhl-goalie" style="display:inline-block; padding:8px 12px; background:#000; color:#fff; border-radius:6px; text-decoration:none;">
 View Project
 </a>
 
 ---
+
 ### NASCAR Pit Stop Performance Model
 
 Analyzes NASCAR pit stop data to understand how pit crew performance impacts race outcomes across the 2024 season.
@@ -41,12 +40,9 @@ Analyzes NASCAR pit stop data to understand how pit crew performance impacts rac
 - Studies impact of slow stops and consistency across races  
 - Key insight: small delays on pit road consistently translate to lost track positions  
 
-<br>
 <a href="/projects-personal#Pit-Stop" style="display:inline-block; padding:8px 12px; background:#000; color:#fff; border-radius:6px; text-decoration:none;">
 View Project
 </a>
-
----
 
 ---
 
