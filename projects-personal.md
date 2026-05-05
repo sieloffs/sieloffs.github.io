@@ -11,6 +11,38 @@ My interests center around applying data science to sports like **MLB, NASCAR, a
 
 ---
 
+## MLB WAR Prediction Model {#WAR-Model}
+<p align="left">
+  <img src="images/MLB_WAR.jpg" style="border-radius:10px;">
+</p>
+
+Built a machine learning model to predict MLB player WAR using Statcast derived offensive metrics and positional information.
+
+WAR (Wins Above Replacement) is one of the most comprehensive measures of player value, combining offense, defense, and baserunning into a single metric. This project focused on whether WAR can be approximated using only underlying measurable skill indicators.
+
+The model used linear regression to map player level features such as barrel rate, walk rate, strikeout rate, exit velocity, launch angle, and positional adjustments to total WAR.
+
+Results showed that offensive quality of contact and plate discipline were the strongest predictors of WAR. Barrel% and BB% had the largest positive impact, while strikeout rate negatively affected predicted value. Adding positional indicators improved performance by capturing defensive value differences across positions.
+
+The final model explained a substantial portion of WAR variation (R² ≈ 0.60), demonstrating that much of player value can be estimated from offensive and positional data alone.
+
+<p align="left">
+  <img src="images/WAR_Predicted_vs_Actual.png" width="500" style="border-radius:10px;">
+</p>
+
+<p align="left">
+  <img src="images/WAR_Residuals.png" width="500" style="border-radius:10px;">
+</p>
+
+<a href="https://github.com/sieloffs/MLB-Analytics/blob/main/WAR%20Modeling.ipynb" 
+   target="_blank"
+   style="display:inline-block; padding:8px 12px; background:#000; color:#fff; border-radius:6px; text-decoration:none;">
+   Open GitHub Code
+</a>
+
+---
+---
+
 <h2>
    Hockey Analytics
   <img src="images/Hockey.jpg" width="30" style="vertical-align:middle; margin-right:8px;">
