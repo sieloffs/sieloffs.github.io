@@ -13,7 +13,7 @@ My interests center around applying data science to sports like **MLB, NASCAR, a
 
 ## MLB WAR Prediction Model {#WAR-Model}
 <p align="left">
-  <img src="images/MLB_WAR.jpg" style="border-radius:10px;">
+  <img src="images/WAR_Performance.png" width="500" style="border-radius:10px;">
 </p>
 
 Built a machine learning model to predict MLB player WAR using Statcast derived offensive metrics and positional information.
@@ -27,11 +27,7 @@ Results showed that offensive quality of contact and plate discipline were the s
 The final model explained a substantial portion of WAR variation (R² ≈ 0.60), demonstrating that much of player value can be estimated from offensive and positional data alone.
 
 <p align="left">
-  <img src="images/WAR_Predicted_vs_Actual.png" width="500" style="border-radius:10px;">
-</p>
-
-<p align="left">
-  <img src="images/WAR_Residuals.png" width="500" style="border-radius:10px;">
+  <img src="images/WAR_Table.png" style="border-radius:10px;">
 </p>
 
 <a href="https://github.com/sieloffs/MLB-Analytics/blob/main/WAR%20Modeling.ipynb" 
