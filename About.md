@@ -11,6 +11,7 @@ Sam Sieloff
 </div>
 
 <p align="Center">
+  <img src="images/Paris.jpg" style="height:250px;" />
   <img src="images/Headshot.jpg" style="height:250px;" />
   <img src="images/biking.jpg" style="height:250px;" />
 </p>
