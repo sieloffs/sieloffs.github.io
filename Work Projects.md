@@ -32,15 +32,15 @@ No matter the role, my goal is: take raw data → clean it → automate it → t
 
 <div style="display:flex; justify-content:left; gap:14px; flex-wrap:wrap; margin:16px 0;">
 
-<a href="/projects-work#Automation" style="display:inline-block; padding:10px 16px; background:#f6f8fa; border-radius:8px; text-decoration:none; font-weight:500;">
+<a href="/projects-work#Automation" style="display:inline-block; padding:10px 16px; background:#e1e4e8; border-radius:8px; text-decoration:none; font-weight:500;">
 Automation & Data Engineering
 </a>
 
-<a href="/projects-work#BI" style="display:inline-block; padding:10px 16px; background:#000; color:#fff; border-radius:8px; text-decoration:none; font-weight:500;">
+<a href="/projects-work#BI" style="display:inline-block; padding:10px 16px; background:#e1e4e8;border-radius:8px; text-decoration:none; font-weight:500;">
 Business Intelligence & Reporting
 </a>
 
-<a href="/projects-work#Analytics" style="display:inline-block; padding:10px 16px; background:#000; color:#fff; border-radius:8px; text-decoration:none; font-weight:500;">
+<a href="/projects-work#Analytics" style="display:inline-block; padding:10px 16px; background:#e1e4e8; border-radius:8px; text-decoration:none; font-weight:500;">
 Analytics & Decision Science
 </a>
 
