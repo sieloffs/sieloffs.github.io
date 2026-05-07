@@ -26,13 +26,13 @@ No matter the role, my goal is: take raw data → clean it → automate it → t
 
 ---
 
-<h2 align="left">Sections</h2>
+<h3 align="left">Sections</h3>
 
 ---
 
 <div style="display:flex; justify-content:left; gap:14px; flex-wrap:wrap; margin:16px 0;">
 
-<a href="/projects-work#Automation" style="display:inline-block; padding:10px 16px; background:#000; color:#fff; border-radius:8px; text-decoration:none; font-weight:500;">
+<a href="/projects-work#Automation" style="display:inline-block; padding:10px 16px; background:#f6f8fa; border-radius:8px; text-decoration:none; font-weight:500;">
 Automation & Data Engineering
 </a>
 
