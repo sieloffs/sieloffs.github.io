@@ -15,9 +15,9 @@ No matter the role, my goal is: take raw data → clean it → automate it → t
 
 ## Sections
 
-- [Automation & Data Engineering](#automation)
-- [Business Intelligence & Reporting](#BI)
-- [Analytics & Decision Science](#Analytics)
+- [Automation & Data Engineering](/Automation)
+- [Business Intelligence & Reporting](/BI)
+- [Analytics & Decision Science](/Analytics)
 ---
 
 # Automation & Data Engineering {#Automation}
@@ -68,7 +68,7 @@ Designed an internal AI agent that combined third party market data with interna
 
 ---
 
-# Business Intelligence & Reporting
+# Business Intelligence & Reporting {#BI}
 
 ### Daily Sales Reporting System
 
@@ -97,7 +97,7 @@ Built a reporting tool combining files from 20+ distributors so sales teams coul
 
 ---
 
-# Analytics & Decision Science
+# Analytics & Decision Science {#Analytics}
 
 ### MAP Pricing Compliance Database
 
