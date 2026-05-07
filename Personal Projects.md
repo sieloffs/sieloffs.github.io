@@ -14,10 +14,6 @@ These projects are built outside of my professional work and are focused on expl
 
 My interests center around applying data science to sports like **MLB, NASCAR, and NHL**, where I experiment with modeling player performance, game outcomes, and statistical trends.
 
----
-<h3 align="left">Projects</h3>
-
----
 
 <div style="display:flex; justify-content:left; gap:14px; flex-wrap:wrap; margin:16px 0;">
 
