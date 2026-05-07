@@ -14,7 +14,12 @@ Outside of data work, I’ve competed at a high level in both baseball (playing 
 
 ---
 
-## What I’m Interested In
+<div style="border:1px solid #d0d7de; padding:16px 20px; border-radius:10px; margin:20px 0; background:#f6f8fa; text-align:center;">
+
+<h2 style="margin:0; font-size:1.5em;">
+What I'm interested in
+</h2>
+</div>
 
 - Sports analytics (MLB, NASCAR, NHL)
 - Fantasy Sports and Sports Betting (Still trying to figure out how to consistently beat Vegas...)
@@ -22,7 +27,12 @@ Outside of data work, I’ve competed at a high level in both baseball (playing 
 
 ---
 
-## Interstests Outside of Work
+<div style="border:1px solid #d0d7de; padding:16px 20px; border-radius:10px; margin:20px 0; background:#f6f8fa; text-align:center;">
+
+<h2 style="margin:0; font-size:1.5em;">
+Interests Outside of Work
+</h2>
+</div>
 
 When I’m not working with data, I’m usually:
 
@@ -43,7 +53,12 @@ When I’m not working with data, I’m usually:
 
 ---
 
-## Let’s Connect
+<div style="border:1px solid #d0d7de; padding:16px 20px; border-radius:10px; margin:20px 0; background:#f6f8fa; text-align:center;">
+
+<h2 style="margin:0; font-size:1.5em;">
+Let's Connect!
+</h2>
+</div>
 
 If anything here caught your eye, please reach out! I’m always open to talking about collaborations or just chatting about sports, data, and anything in between.
 
