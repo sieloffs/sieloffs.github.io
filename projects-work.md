@@ -32,15 +32,16 @@ No matter the role, my goal is: take raw data → clean it → automate it → t
 
 # Automation & Data Engineering {#Automation}
 
+<p align="left"> 
+  <img src="images/python.jpg" style="height:35px; margin-right:25px;" /> 
+  <img src="images/sql.jpg" style="height:35px; margin-right:25px;" /> 
+  <img src="images/Azure.png" style="height:35px; margin-right:25px;" /> 
+</p>
+
 Projects focused on reducing manual work, connecting disconnected systems, and building scalable internal tools that help teams move faster with cleaner data.
 
 ---
-<h3>
-   D365 Upload Automation:  
-  <img src="images/python.jpg" style="height:30px;" /> 
-  <img src="images/sql.jpg" style="height:30px;" /> 
-  <img src="images/Azure.png" style="height:30px;" /> 
-</h3>
+### D365 Upload Automation:  
 
 #### Python | SQL | Azure
 
@@ -66,7 +67,7 @@ Built a scalable promotional planning system that improved accuracy, and decisio
 ---
 ### AI Market Intelligence Agent
 
-Copilot Studio | Power Automate | Data Modeling
+#### Copilot Studio | Power Automate | Data Modeling
 
 Designed an internal AI agent that combined third party market data with internal company data.
 
@@ -79,9 +80,15 @@ Designed an internal AI agent that combined third party market data with interna
 
 # Business Intelligence & Reporting {#BI}
 
+<p align="left"> 
+  <img src="images/power bi.jpg" style="height:35px; margin-right:25px;" /> 
+  <img src="images/excel.png" style="height:35px; margin-right:25px;" /> 
+  <img src="images/sql.jpg" style="height:35px; margin-right:25px;" /> 
+</p>
+
 ### Daily Sales Reporting System
 
-Power BI | Data Modeling | Excel
+#### Power BI | Data Modeling | Excel
 
 Built a daily Power BI report combining sales, budget, and forecast data into one place for leadership.
 
@@ -95,7 +102,7 @@ Built a daily Power BI report combining sales, budget, and forecast data into on
 
 ### Distributor COGS Reporting
 
-Python | Power BI | DAX
+#### Python | Power BI | DAX
 
 Built a reporting tool combining files from 20+ distributors so sales teams could actually use the data.
 
@@ -110,7 +117,7 @@ Built a reporting tool combining files from 20+ distributors so sales teams coul
 
 ### MAP Pricing Compliance Database
 
-SQL | Python | Web Scraping
+#### SQL | Python | Web Scraping
 
 Built a system to track online sellers breaking pricing rules.
 
@@ -124,7 +131,7 @@ Built a system to track online sellers breaking pricing rules.
 
 ### Gap Opportunity Model
 
-Python | Statistics | Power BI
+#### Python | Statistics | Power BI
 
 Built a model to help sales reps find missed opportunities with customers.
 
