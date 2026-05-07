@@ -32,13 +32,17 @@ No matter the role, my goal is: take raw data → clean it → automate it → t
 
 ---
 
-<div id="Automation" style="border:1px solid #d0d7de; padding:16px 20px; border-radius:8px; margin:20px 0;">
+<div id="Automation" style="border:1px solid #d0d7de; padding:16px 20px; border-radius:10px; margin:20px 0; background:#f6f8fa; text-align:center;">
 
-<h2 style="margin:0; font-size:1.5em;">Automation & Data Engineering</h2>
+<h2 style="margin:0; font-size:1.5em;">
+  Automation & Data Engineering
+</h2>
 
 </div>
 
-<p align="left"> 
+</div>
+
+<p align="center"> 
   <img src="images/python.jpg" style="height:35px; margin-right:25px;" /> 
   <img src="images/sql.jpg" style="height:35px; margin-right:25px;" /> 
   <img src="images/Azure.png" style="height:35px; margin-right:25px;" /> 
