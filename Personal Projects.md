@@ -25,7 +25,7 @@ My interests center around applying data science to sports like **MLB, NASCAR, a
 
 Built a machine learning model to predict MLB player WAR using Statcast derived offensive metrics and positional information.
 
-<p align="left">
+<p align="center">
   <img src="images/WAR_Performance.png" width="500" style="border-radius:10px;">
 </p>
 
@@ -37,7 +37,7 @@ Results showed that offensive quality of contact and plate discipline were the s
 
 The final model explained a substantial portion of WAR variation (R² ≈ 0.60), demonstrating that much of player value can be estimated from offensive and positional data alone.
 
-<p align="left">
+<p align="center">
   <img src="images/WAR_Table.png" style="border-radius:10px;">
 </p>
 
