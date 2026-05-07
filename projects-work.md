@@ -16,6 +16,11 @@ No matter the role, my goal is: take raw data → clean it → automate it → t
 ## Sections
 
 - [Automation & Data Engineering](/projects-work#Automation)
+  
+<a href="/projects-work#Automation" style="display:inline-block; padding:8px 12px; background:#000; color:#fff; border-radius:6px; text-decoration:none;">
+Automation & Data Engineering
+</a>
+
 - [Business Intelligence & Reporting](/projects-work#BI)
 - [Analytics & Decision Science](/projects-work#Analytics)
   
