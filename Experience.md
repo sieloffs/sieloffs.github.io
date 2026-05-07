@@ -7,10 +7,14 @@ title: Experience
 
 My professional experience in data analytics, automation, and business intelligence is summarized in my resume below.
 
-<br>
 
-<a href="/Sam_Sieloff_Resume.pdf" target="_blank">Download Resume</a>
+<div style="display:flex; justify-content:left; gap:14px; flex-wrap:wrap; margin:16px 0;">
 
-<br><br>
+<a href="/Sam_Sieloff_Resume.pdf" target="_blank" style="display:inline-block; padding:10px 16px; background:#000; color:#fff; border-radius:8px; text-decoration:none; font-weight:500;">
+Download Resume
+</a>
+</div>
+
+---
 
 <iframe src="/Sam_Sieloff_Resume.pdf" width="100%" height="800px"></iframe>
