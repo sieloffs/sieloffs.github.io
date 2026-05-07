@@ -9,8 +9,8 @@ My professional experience in data analytics, automation, and business intellige
 
 <br>
 
-<a href="/resume.pdf" target="_blank">Download Resume</a>
+<a href="/Sam_Sieloff_Resume.pdf" target="_blank">Download Resume</a>
 
 <br><br>
 
-<iframe src="/resume.pdf" width="100%" height="800px"></iframe>
+<iframe src="/Sam_Sieloff_Resume.pdf" width="100%" height="800px"></iframe>
