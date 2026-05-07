@@ -26,7 +26,9 @@ No matter the role, my goal is: take raw data → clean it → automate it → t
 
 ---
 
-## Sections
+<h2 align="center">Sections</h2>
+
+---
 
 <div style="display:flex; justify-content:center; gap:14px; flex-wrap:wrap; margin:16px 0;">
 
