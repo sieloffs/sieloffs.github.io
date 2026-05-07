@@ -14,11 +14,15 @@ Sam Sieloff
   <img src="images/Headshot.jpg" style="height:250px;" />
 </p>
 
-I’m a Data Scientist with a passion for turning messy data into clear, actionable insights. I currently build scalable reporting and analytics solutions that support decision making at the leadership level.
+I’m an aspiring data scientist with a passion for turning messy, complex data into clear, actionable insights. In my work, I focus on building scalable reporting and analytics systems that help teams and leadership make better, faster decisions based on data they can actually trust.
 
-My interest in data and sports goes back as far as I can remember. It started with tracking stats for “fake” wiffleball games in the backyard and eventually evolved into something I’ve carried into my career and personal projects. Over time, that curiosity turned into a deeper focus on understanding performance through numbers, patterns, and trends.
+My interest in data and sports goes back as long as I can remember. It started with tracking stats for made up wiffleball games in the backyard and eventually turned into a deeper curiosity about performance, patterns, and decision making. Over time, that curiosity grew into a real interest in how data can be used to understand not just what is happening, but why it’s happening.
 
-Outside of data work, I’ve competed at a high level in both baseball (playing through college) and cycling, where I still race in local and regional mountain biking events. Those experiences continue to shape how I think about performance, competition, and the stories behind the numbers.
+That mindset has carried into both my career and personal projects, where I’ve worked across BI, automation, reporting, and modeling. I enjoy taking systems that are messy, manual, or disconnected and turning them into something structured and useful.
+
+Outside of data work, I’ve always been competitive. I played baseball through college, including on the club baseball team at Purdue, which was a big part of how I first learned to think about performance in a structured way. More recently, I’ve also gotten into cycling, where I still race in local and regional mountain bike events. Both sports have shaped how I think about improvement, consistency, and performance over time.
+
+At this point, a lot of what I enjoy about data is the same thing I’ve always liked about sports, trying to understand what actually drives outcomes, finding patterns that aren’t obvious at first glance, and using that information to make better decisions.
 
 ---
 
