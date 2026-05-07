@@ -12,7 +12,7 @@ title: Personal Projects
 </div>
 These projects are built outside of my professional work and are focused on exploring machine learning, predictive modeling, and sports analytics.
 
-My interests center around applying data science to sports like **MLB, NASCAR, and NHL**, where I experiment with modeling player performance, game outcomes, and statistical trends.
+Most of my interest sits at the intersection of data science and sports, especially MLB, NASCAR, and NHL, where I experiment with modeling player performance, game outcomes, and statistical trends. I’m also interested in how these ideas connect to real decision making, not just predictions on paper.
 
 
 <div style="display:flex; justify-content:left; gap:14px; flex-wrap:wrap; margin:16px 0;">
@@ -41,19 +41,19 @@ Pit Stop Performance Analysis
 
 </div>
 
-Built a machine learning model to predict MLB player WAR using Statcast derived offensive metrics and positional information.
+Built a machine learning model to predict MLB player WAR using underlying offensive metrics and positional information.
 
 <p align="center">
   <img src="images/WAR_Performance.png" width="500" style="border-radius:10px;">
 </p>
 
-WAR (Wins Above Replacement) is one of the most comprehensive measures of player value, combining offense, defense, and baserunning into a single metric. This project focused on whether WAR can be approximated using only underlying measurable skill indicators.
+WAR (Wins Above Replacement) is one of the most complete measures of player value, combining hitting, defense, and baserunning into a single number. This project explored how closely WAR can be estimated using only measurable underlying skills.
 
-The model used linear regression to map player level features such as barrel rate, walk rate, strikeout rate, exit velocity, launch angle, and positional adjustments to total WAR.
+I used a linear regression model with player level features like barrel rate, walk rate, strikeout rate, exit velocity, launch angle, and positional adjustments to predict total WAR.
 
-Results showed that offensive quality of contact and plate discipline were the strongest predictors of WAR. Barrel% and BB% had the largest positive impact, while strikeout rate negatively affected predicted value. Adding positional indicators improved performance by capturing defensive value differences across positions.
+The results showed that offensive quality and plate discipline were the strongest signals. Barrel% and BB% had the largest positive impact, while strikeout rate was negatively correlated with value. Adding positional features also helped capture differences in defensive value across roles.
 
-The final model explained a substantial portion of WAR variation (R² ≈ 0.60), demonstrating that much of player value can be estimated from offensive and positional data alone.
+Overall, the model explained a meaningful portion of WAR variation (R² ≈ 0.60), showing that a lot of player value can be approximated from offensive and positional data alone.
 
 <p align="center">
   <img src="images/WAR_Table.png" style="border-radius:10px;">
@@ -76,14 +76,20 @@ The final model explained a substantial portion of WAR variation (R² ≈ 0.60),
 
 </div>
 
-Built a machine learning model using millions of NHL tracking data points to explore how teams can make better goalie start decisions.
+Built a machine learning model using millions of NHL tracking data points as part of a group project to explore how teams can make better goalie start decisions.
 
 <p align="center">
   <img src="images/Goalies.jpg" width="500" style="border-radius:10px;">
 </p>
 
 
-Worked with a team to move beyond traditional stats by focusing on recent performance trends using weighted game history and rolling metrics to better reflect how goalies are actually playing going into a game.
+Worked with a team of students at UNC Chapel Hill to develop a model that could help inform which goalie to start in a given game. The inspiration for this project came from debates around goalie selection during the 2026 Winter Olympics and how similar decisions play out in the NHL.
+
+We built a rich feature set with over 100 potential variables, including advanced tracking metrics and exponential weighting techniques to emphasize recent performance over historical averages.
+
+The goal was to create a system that could provide a meaningful edge in goalie selection at the NHL level. However, due to the high level of noise in goaltender performance from game to game, predictive power was limited.
+
+Overall, the model performed slightly better than random selection, which reinforced how difficult short term prediction is in this space, but also highlighted the importance of feature design and how small signals can still exist in highly volatile environments.
 
 
 <div style="display:flex; justify-content:left; gap:14px; flex-wrap:wrap; margin:16px 0;">
