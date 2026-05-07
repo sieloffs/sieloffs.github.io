@@ -93,7 +93,7 @@ Designed an internal AI agent that combined third party market data with interna
 </h2>
 </div>
 
-<p align="left"> 
+<p align="center"> 
   <img src="images/power bi.jpg" style="height:35px; margin-right:25px;" /> 
   <img src="images/excel.png" style="height:35px; margin-right:25px;" /> 
   <img src="images/sql.jpg" style="height:35px; margin-right:25px;" /> 
@@ -136,7 +136,7 @@ Built a reporting tool combining files from 20+ distributors so sales teams coul
 </h2>
 </div>
 
-<p align="left"> 
+<p align="center"> 
   <img src="images/python.jpg" style="height:35px; margin-right:25px;" /> 
   <img src="images/math.png" style="height:35px; margin-right:25px;" /> 
   <img src="images/r.jpg" style="height:35px; margin-right:25px;" /> 
