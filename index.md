@@ -8,6 +8,7 @@ title: Welcome!
 <h1 style="margin:0; font-size:1.5em;">
  Hi, I'm Sam Sieloff
 </h1>
+</div>
 
 <p align="center">
   <img src="images/Headshot.jpg" style="height:200px;" />
@@ -28,7 +29,7 @@ I’m especially interested in how data can improve decision making in competiti
 <h2 style="margin:0; font-size:1.5em;">
  Featured Work
 </h2>
-
+</div>
 A few projects I’ve built across analytics, machine learning, and sports modeling:
 
 ---
