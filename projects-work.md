@@ -4,9 +4,9 @@ title: Work Projects
 ---
 <div style="border:1px solid #d0d7de; padding:16px 20px; border-radius:10px; margin:20px 0; background:#f6f8fa; text-align:center;">
 
-<h2 style="margin:0; font-size:1.5em;">
+<h1 style="margin:0; font-size:1.5em;">
   Professional Data & Analytics Work
-</h2>
+</h1>
 
 </div>
 
