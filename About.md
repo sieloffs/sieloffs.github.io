@@ -46,9 +46,6 @@ Interests Outside of Work
 </h2>
 </div>
 
-When I’m not working with data, I’m usually:
-
----
 
 ### Watching some of favorite teams
   
@@ -60,10 +57,10 @@ When I’m not working with data, I’m usually:
 </p>
 
 ### Other interests
-- Reading a good book
-- Traveling with my fiancée
-- Riding my bike and training for my next race
-- Playing Piano. I've played for 20+ years and perform at weddings, funerals, and weekly in our church worship group 
+- Reading a good book. Two of my favorite authors are Stephen King & Nate Silver. 
+- Traveling with my fiancée (recent trips include: Italy, Greece, London & Paris)
+- Riding my bike and training for my next race.
+- Playing Piano. I've played for 20+ years and perform at weddings, funerals, and weekly in our church worship group.
 
 ---
 
