@@ -5,6 +5,10 @@ title: Welcome!
 
 # Hi, I’m Sam Sieloff
 
+<p align="left">
+  <img src="images/Headshot.jpg" style="height:200px;" />
+</p>
+
 **Data Scientist • Machine Learning • Sports Analytics**
 
 I build data driven models and analytics systems that turn complex data into clear, actionable insights.
