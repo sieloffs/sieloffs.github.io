@@ -11,6 +11,7 @@ title: Work Projects
   <img src="images/RCP.jpg" style="height:40px; margin-right:20px;" />
   <img src="images/Rubbermaid.png" style="height:40px; margin-right:20px;" />
 </p>
+<br>
 
 ---
 
