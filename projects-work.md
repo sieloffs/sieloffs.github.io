@@ -40,8 +40,6 @@ No matter the role, my goal is: take raw data → clean it → automate it → t
 
 </div>
 
-</div>
-
 <p align="center"> 
   <img src="images/python.jpg" style="height:35px; margin-right:25px;" /> 
   <img src="images/sql.jpg" style="height:35px; margin-right:25px;" /> 
