@@ -185,7 +185,11 @@ Built a model to help sales reps find missed opportunities with customers.
 
 ---
 
-# Related Work
 
-- [Personal Projects](/projects-personal)
-- [Main Projects Hub](/projects)
+<div style="display:flex; justify-content:left; gap:14px; flex-wrap:wrap; margin:16px 0;">
+
+<a href="/Personal Projects" style="display:inline-block; padding:10px 16px; background:#000; color:#fff; border-radius:8px; text-decoration:none; font-weight:500;">
+Personal Projects
+</a>
+
+</div>
