@@ -60,6 +60,7 @@ The final model explained a substantial portion of WAR variation (R² ≈ 0.60),
 </p>
 
 <a href="https://github.com/sieloffs/MLB-Analytics/blob/main/WAR%20Modeling.ipynb" 
+   align = "center"
    target="_blank"
    style="display:inline-block; padding:8px 12px; background:#000; color:#fff; border-radius:6px; text-decoration:none;">
    Open GitHub Code
