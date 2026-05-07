@@ -50,12 +50,11 @@ About
 <div style="border:1px solid #d0d7de; padding:16px 20px; border-radius:10px; margin:20px 0; background:#f6f8fa; text-align:center;">
 
 <h2 style="margin:0; font-size:1.5em;">
-Lets Connect!
+Let's Connect!
 </h2>
 </div>
 
-If anything here caught your eye, reach out anytime. I’m always down to talk about data, sports analytics, or interesting problems in general.
-
+If anything here caught your eye, feel free to reach out. I’m always open to talking about data, sports analytics, or potential collaborations.
 
 <div style="text-align:center; margin-top:25px;">
 
