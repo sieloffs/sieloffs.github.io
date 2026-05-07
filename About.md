@@ -12,6 +12,7 @@ Sam Sieloff
 
 <p align="Center">
   <img src="images/Headshot.jpg" style="height:250px;" />
+  <img src="images/biking.jpg" style="height:250px;" />
 </p>
 
 I’m an aspiring data scientist with a passion for turning messy, complex data into clear, actionable insights. In my work, I focus on building scalable reporting and analytics systems that help teams and leadership make better, faster decisions based on data they can actually trust.
