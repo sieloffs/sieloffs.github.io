@@ -2,17 +2,20 @@
 layout: page
 title: Work Projects
 ---
+<div style="border:1px solid #d0d7de; padding:16px 20px; border-radius:10px; margin:20px 0; background:#f6f8fa; text-align:center;">
 
-# Professional Data & Analytics Work
+<h2 style="margin:0; font-size:1.5em;">
+  Professional Data & Analytics Work
+</h2>
 
-<p align="left">
+</div>
+
+<p align="center">
   <img src="images/lids.png" style="height:40px; margin-right:20px;" />
   <img src="images/newell.png" style="height:40px; margin-right:20px;" />
   <img src="images/RCP.jpg" style="height:40px; margin-right:20px;" />
   <img src="images/Rubbermaid.png" style="height:40px; margin-right:20px;" />
 </p>
-<br>
-
 ---
 
 I’ve worked across BI, automation, and analytics roles where I build tools that turn messy data into something teams can actually use for decision making.
