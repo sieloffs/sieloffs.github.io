@@ -15,8 +15,14 @@ These projects are built outside of my professional work and are focused on expl
 My interests center around applying data science to sports like **MLB, NASCAR, and NHL**, where I experiment with modeling player performance, game outcomes, and statistical trends.
 
 ---
+<div id="WAR-Model" style="border:1px solid #d0d7de; padding:16px 20px; border-radius:10px; margin:20px 0; background:#f6f8fa; text-align:center;">
 
-## MLB WAR Prediction Model {#WAR-Model}
+<h2 style="margin:0; font-size:1.5em;">
+  MLB WAR Prediction Model
+</h2>
+
+</div>
+
 <p align="left">
   <img src="images/WAR_Performance.png" width="500" style="border-radius:10px;">
 </p>
