@@ -78,7 +78,7 @@ The final model explained a substantial portion of WAR variation (R² ≈ 0.60),
 
 Built a machine learning model using millions of NHL tracking data points to explore how teams can make better goalie start decisions.
 
-<p align="left">
+<p align="center">
   <img src="images/Goalies.jpg" width="500" style="border-radius:10px;">
 </p>
 
@@ -108,7 +108,7 @@ Worked with a team to move beyond traditional stats by focusing on recent perfor
 Analyzed NASCAR pit stop performance to understand how pit crew execution impacts race outcomes in the 2024 season.
 
 
-<p align="left">
+<p align="center">
   <img src="images/Pit Crew.jpg" style="border-radius:10px;">
 </p>
 
@@ -118,7 +118,7 @@ This project explored how pit stop efficiency relates to finishing position by a
 
 Key findings showed that slow pit stops have a measurable impact on race results, with each slow stop associated with roughly one lost finishing position. Driver consistency over the season also emerged as a strong predictor of race outcomes, even more so than starting position in many cases.
 
-<p align="left">
+<p align="center">
   <img src="images/Slow Stops.png" width="500" style="border-radius:10px;">
 </p>
 
