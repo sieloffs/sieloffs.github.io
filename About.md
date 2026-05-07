@@ -34,6 +34,8 @@ What I'm interested in
 </div>
 
 - Sports analytics (MLB, NASCAR, NHL)
+- Applied machine learning & predictive modeling
+- AI systems
 - Fantasy Sports and Sports Betting (Still trying to figure out how to consistently beat Vegas...)
 - Sports science and performance optimization. Keeping athletes on the field and performing at their best  
 
