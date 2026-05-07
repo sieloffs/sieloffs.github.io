@@ -32,11 +32,9 @@ No matter the role, my goal is: take raw data → clean it → automate it → t
 
 ---
 
-<div id="Automation" style="border:1px solid #d0d7de; border-radius:10px; padding:16px 20px; margin:20px 0; background:#f6f8fa;">
+<div id="Automation" style="border:1px solid #d0d7de; padding:16px 20px; border-radius:8px; margin:20px 0;">
 
-## Automation & Data Engineering
-
-Projects focused on reducing manual work, connecting disconnected systems, and building scalable internal tools that help teams move faster with cleaner data.
+<h2 style="margin:0; font-size:1.5em;">Automation & Data Engineering</h2>
 
 </div>
 
