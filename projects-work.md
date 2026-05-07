@@ -46,7 +46,7 @@ Projects focused on reducing manual work, connecting disconnected systems, and b
 
 <p align="left">
   <img src="images/python.jpg" style="height:35px; margin-right:25px;" />
-  <img src="images/sql.png" width="28" alt="SQL Server" style="height:35px; margin-right:25px;" />
+  <img src="images/sql.jpg" width="28" alt="SQL Server" style="height:35px; margin-right:25px;" />
   <img src="images/Azure.png" style="height:35px; margin-right:25px;" />
 </p>
 
