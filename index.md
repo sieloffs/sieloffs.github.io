@@ -11,10 +11,12 @@ title: Welcome!
 </div>
 
 <p align="center">
-  <img src="images/Headshot.jpg" style="height:200px;" />
+  <img src="images/Headshot.jpg" style="height:250px;" />
 </p>
 
-**Data Scientist • Machine Learning • Sports Analytics**
+<p align="center">
+  <strong>Data Scientist • Machine Learning • Sports Analytics</strong>
+</p>
 
 I build data driven models and analytics systems that turn complex data into clear, actionable insights.
 
