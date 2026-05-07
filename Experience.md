@@ -17,4 +17,11 @@ Download Resume
 
 ---
 
-<iframe src="/Sam_Sieloff_Resume.pdf" width="100%" height="800px"></iframe>
+<div style="max-width:900px; margin:0 auto;">
+
+  <iframe 
+    src="/Sam_Sieloff_Resume.pdf" 
+    style="width:100%; height:1200px; border:none;"
+  ></iframe>
+
+</div>
