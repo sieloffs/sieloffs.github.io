@@ -19,12 +19,10 @@ Projects focused on reducing manual work, connecting disconnected systems, and b
 
 ### D365 Upload Automation
 
-Python | SQL | Azure
-
 <p align="left">
-  <img src="images/python.jpg" width="28" alt="Python" />
-  <img src="images/sql.png" width="28" alt="SQL Server" hspace = "8" />
-  <img src="images/Azure.png" width="28" alt="Azure" hspace = "8"/>
+  <img src="images/python.jpg" style="height:28px; margin-right:10px;" />
+  <img src="images/sql.png" width="28" alt="SQL Server" style="height:28px; margin-right:10px;" />
+  <img src="images/Azure.png" style="height:28px; margin-right:10px;" />
 </p>
 
 Automated a daily manual process during a cloud database migration, saving 5+ hours per week and improving reliability.
