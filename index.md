@@ -11,7 +11,7 @@ title: Welcome!
 </div>
 
 <p align="center">
-  <strong>Data Scientist • Machine Learning • Sports Analytics</strong>
+  <strong>Data Analytics • BI & Automation • Sports Analytics</strong>
 </p>
 
 
@@ -51,7 +51,7 @@ Lets Connect!
 </h2>
 </div>
 
-If anything here caught your eye, please reach out! I’m always open to talking about collaborations or just chatting about sports, data, and anything in between.
+If anything here caught your eye, reach out anytime. I’m always down to talk about data, sports analytics, or interesting problems in general.
 
 
 <div style="text-align:center; margin-top:25px;">
