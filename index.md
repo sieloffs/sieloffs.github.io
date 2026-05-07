@@ -33,10 +33,10 @@ I’m especially interested in how data can improve decision making in competiti
 Personal Projects
 </a>
 <a href="/Work Projects" style="display:inline-block; padding:10px 16px; background:#000; color:#fff; border-radius:8px; text-decoration:none; font-weight:500;">
-Personal Projects
+Work Projects
 </a>
 <a href="About" style="display:inline-block; padding:10px 16px; background:#000; color:#fff; border-radius:8px; text-decoration:none; font-weight:500;">
-Personal Projects
+About
 </a>
 
 </div>
