@@ -48,18 +48,21 @@ The final model explained a substantial portion of WAR variation (R² ≈ 0.60),
 </a>
 
 ---
----
 
-<h2>
-   Hockey Analytics
-  <img src="images/Hockey.jpg" width="30" style="vertical-align:middle; margin-right:8px;">
+<div id="nhl-goalie" style="border:1px solid #d0d7de; padding:16px 20px; border-radius:10px; margin:20px 0; background:#f6f8fa; text-align:center;">
+
+<h2 style="margin:0; font-size:1.5em;">
+  Goalie Selection Model
 </h2>
 
-### Goalie Selection Model {#nhl-goalie}
+</div>
+
+Built a machine learning model using millions of NHL tracking data points to explore how teams can make better goalie start decisions.
+
 <p align="left">
   <img src="images/Goalies.jpg" width="500" style="border-radius:10px;">
 </p>
-Built a machine learning model using millions of NHL tracking data points to explore how teams can make better goalie start decisions.
+
 
 Worked with a team to move beyond traditional stats by focusing on recent performance trends using weighted game history and rolling metrics to better reflect how goalies are actually playing going into a game.
 
@@ -76,17 +79,19 @@ Worked with a team to move beyond traditional stats by focusing on recent perfor
 </a>
 
 ---
-<h2> 
-   NASCAR Analytics
-  <img src="images/nascar.png" width="100" style="vertical-align:middle; margin-right:8px;">
-</h2>
+<div id="Pit-Stop" style="border:1px solid #d0d7de; padding:16px 20px; border-radius:10px; margin:20px 0; background:#f6f8fa; text-align:center;">
 
-### Pit Stop Performance Analysis {#Pit-Stop}
+<h2 style="margin:0; font-size:1.5em;">
+  Pit Stop Performance Analysis
+</h2>
+</div>
+
+Analyzed NASCAR pit stop performance to understand how pit crew execution impacts race outcomes in the 2024 season.
+
+
 <p align="left">
   <img src="images/Pit Crew.jpg" style="border-radius:10px;">
 </p>
-
-Analyzed NASCAR pit stop performance to understand how pit crew execution impacts race outcomes in the 2024 season.
 
 Pit stops play a critical role in NASCAR, where races are often decided by fractions of a second. Even small mistakes on pit road can lead to significant position changes over the course of a race.
 
@@ -104,16 +109,6 @@ Key findings showed that slow pit stops have a measurable impact on race results
    Open GitHub Code
 </a>
 
----
-
-
-# 🧰 Tools & Techniques
-
-- Python (pandas, scikit-learn, XGBoost)  
-- Data visualization (matplotlib, seaborn)  
-- Feature engineering  
-- Time series & regression modeling  
-- Sports analytics datasets  
 
 ---
 
