@@ -86,7 +86,12 @@ Designed an internal AI agent that combined third party market data with interna
 
 ---
 
-# Business Intelligence & Reporting {#BI}
+<div id="BI" style="border:1px solid #d0d7de; padding:16px 20px; border-radius:10px; margin:20px 0; background:#f6f8fa; text-align:center;">
+
+<h2 style="margin:0; font-size:1.5em;">
+ Business Intelligence & Reporting
+</h2>
+</div>
 
 <p align="left"> 
   <img src="images/power bi.jpg" style="height:35px; margin-right:25px;" /> 
@@ -124,8 +129,12 @@ Built a reporting tool combining files from 20+ distributors so sales teams coul
 - Helped teams spot opportunties and risks faster
 
 ---
+<div id="Analytics" style="border:1px solid #d0d7de; padding:16px 20px; border-radius:10px; margin:20px 0; background:#f6f8fa; text-align:center;">
 
-# Analytics & Decision Science {#Analytics}
+<h2 style="margin:0; font-size:1.5em;">
+ Analytics & Decision Science
+</h2>
+</div>
 
 <p align="left"> 
   <img src="images/python.jpg" style="height:35px; margin-right:25px;" /> 
