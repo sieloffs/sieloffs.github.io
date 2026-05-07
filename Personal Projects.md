@@ -120,11 +120,17 @@ Analyzed NASCAR pit stop performance to understand how pit crew execution impact
   <img src="images/Pit Crew.jpg" style="border-radius:10px;">
 </p>
 
-Pit stops play a critical role in NASCAR, where races are often decided by fractions of a second. Even small mistakes on pit road can lead to significant position changes over the course of a race.
+Modeled NASCAR race results using race and pit stop data scraped and cleaned into a structured dataset.
 
-This project explored how pit stop efficiency relates to finishing position by analyzing stop times, positions gained or lost, and overall crew consistency.
+NASCAR race outcomes are extremely difficult to predict because so much of the sport is driven by randomness. For example, a driver can lead nearly an entire race and still finish poorly due to a single late race issue like a blown tire or caution timing. Because of that, no model is going to perfectly predict finishing positions.
 
-Key findings showed that slow pit stops have a measurable impact on race results, with each slow stop associated with roughly one lost finishing position. Driver consistency over the season also emerged as a strong predictor of race outcomes, even more so than starting position in many cases.
+Even with that noise, a few consistent signals did stand out.
+
+Pit stop performance had a measurable impact on results. In the linear model, each slow pit stop was associated with roughly a one position drop in finishing order, and the effect becomes even more meaningful when looking at variation across races. Small inefficiencies on pit road add up over time.
+
+Starting position also mattered, but less than expected. What ended up being more predictive was overall driver consistency across the season. A driver’s average finishing position coming into the race turned out to be one of the strongest indicators of race outcome, even when controlling for pit stops and starting grid position.
+
+Overall, while exact race prediction is not realistic given the level of randomness in NASCAR, the analysis shows that both pit execution and underlying driver performance have a clear and measurable influence on results. 
 
 <p align="center">
   <img src="images/Slow Stops.png" width="500" style="border-radius:10px;">
