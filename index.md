@@ -37,6 +37,9 @@ Personal Projects
 <a href="/Work Projects" style="display:inline-block; padding:10px 16px; background:#000; color:#fff; border-radius:8px; text-decoration:none; font-weight:500;">
 Work Projects
 </a>
+<a href="/Experience" style="display:inline-block; padding:10px 16px; background:#000; color:#fff; border-radius:8px; text-decoration:none; font-weight:500;">
+Experience + Resume
+</a>
 <a href="About" style="display:inline-block; padding:10px 16px; background:#000; color:#fff; border-radius:8px; text-decoration:none; font-weight:500;">
 About
 </a>
