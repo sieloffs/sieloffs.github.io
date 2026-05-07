@@ -2,26 +2,9 @@
 layout: page
 title: About Me
 ---
-
-<div style="display:flex; align-items:center; justify-content:space-between; gap:20px;">
-
-  <div>
-    <h1>Hi, I’m Sam Sieloff</h1>
-    <p>
-      Data Analytics • Machine Learning • Sports Modeling
-    </p>
-
-    <p>
-      I build data driven projects in machine learning, analytics, and business intelligence.
-    </p>
-  </div>
-
-  <img src="images/Headshot.jpg" 
-       alt="Headshot" 
-       width="200"
-       style="border-radius:12px;">
-
-</div>
+<p align="Left">
+  <img src="images/Headshot.jpg" style="height:250px;" />
+</p>
 
 I’m a Data Scientist with a passion for turning messy data into clear, actionable insights. I currently build scalable reporting and analytics solutions that support decision making at the leadership level.
 
