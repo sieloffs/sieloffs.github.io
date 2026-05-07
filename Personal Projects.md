@@ -3,8 +3,13 @@ layout: page
 title: Personal Projects
 ---
 
-# Personal Data Science & Sports Analytics Projects
+<div style="border:1px solid #d0d7de; padding:16px 20px; border-radius:10px; margin:20px 0; background:#f6f8fa; text-align:center;">
 
+<h1 style="margin:0; font-size:1.5em;">
+ Personal Data & Analytics Work
+</h1>
+
+</div>
 These projects are built outside of my professional work and are focused on exploring machine learning, predictive modeling, and sports analytics.
 
 My interests center around applying data science to sports like **MLB, NASCAR, and NHL**, where I experiment with modeling player performance, game outcomes, and statistical trends.
