@@ -27,6 +27,20 @@ My work spans both business intelligence and sports analytics ranging from execu
 I’m especially interested in how data can improve decision making in competitive environments, whether that’s in a boardroom or on the field.
 
 ---
+<div style="display:flex; justify-content:left; gap:14px; flex-wrap:wrap; margin:16px 0;">
+
+<a href="/Personal Projects" style="display:inline-block; padding:10px 16px; background:#000; color:#fff; border-radius:8px; text-decoration:none; font-weight:500;">
+Personal Projects
+</a>
+<a href="/Work Projects" style="display:inline-block; padding:10px 16px; background:#000; color:#fff; border-radius:8px; text-decoration:none; font-weight:500;">
+Personal Projects
+</a>
+<a href="About" style="display:inline-block; padding:10px 16px; background:#000; color:#fff; border-radius:8px; text-decoration:none; font-weight:500;">
+Personal Projects
+</a>
+
+</div>
+---
 
 <div style="border:1px solid #d0d7de; padding:16px 20px; border-radius:10px; margin:20px 0; background:#f6f8fa; text-align:center;">
 
