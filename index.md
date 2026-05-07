@@ -20,11 +20,13 @@ title: Welcome!
 </p>
 
 
-I build data driven models and analytics systems that turn complex data into clear, actionable insights.
+I turn complex problems into simple, usable solutions in anything data related. I’ve built multiple enterprise solutions across BI, automation, modeling, and reporting that help teams move faster and make better decisions.
 
-My work spans both business intelligence and sports analytics ranging from executive reporting dashboards at companies like **Newell Brands** and **Lids**, to predictive modeling projects in MLB, NHL, and NASCAR.
+I’m very comfortable working with tools like Python, R, Power BI, and SQL, and I’m always looking to keep learning and push my skill set further.
 
-I’m especially interested in how data can improve decision making in competitive environments, whether that’s in a boardroom or on the field.
+I’m currently finishing my Master’s in Applied Data Science at UNC (Go Heels!), where I’m focusing on deep learning and machine learning. Currently, I spend a lot of time experimenting with AI. Whether that’s building intelligent agents to improve reporting workflows or learning more about how neural networks actually work behind the scenes.
+
+I also have a strong passion for sports analytics, and you’ll see a growing collection of those projects linked below. I’ve played competitive baseball throughout my life, including on the club baseball team at Purdue, which is where a lot of my interest in performance and data driven decision making started.
 
 ---
 <div style="display:flex; justify-content:left; gap:14px; flex-wrap:wrap; margin:16px 0;">
