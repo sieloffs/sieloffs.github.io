@@ -23,11 +23,11 @@ My interests center around applying data science to sports like **MLB, NASCAR, a
 
 </div>
 
+Built a machine learning model to predict MLB player WAR using Statcast derived offensive metrics and positional information.
+
 <p align="left">
   <img src="images/WAR_Performance.png" width="500" style="border-radius:10px;">
 </p>
-
-Built a machine learning model to predict MLB player WAR using Statcast derived offensive metrics and positional information.
 
 WAR (Wins Above Replacement) is one of the most comprehensive measures of player value, combining offense, defense, and baserunning into a single metric. This project focused on whether WAR can be approximated using only underlying measurable skill indicators.
 
