@@ -44,11 +44,10 @@ Projects focused on reducing manual work, connecting disconnected systems, and b
 
 ### D365 Upload Automation
 
-Python | SQL | Azure
 
 <p align="left">
   <img src="images/python.jpg" style="height:35px; margin-right:25px;" />
-  <img src="images/sql.jpg"style="height:35px; margin-right:25px;" />
+  <img src="images/sql.jpg" style="height:35px; margin-right:25px;" />
   <img src="images/Azure.png" style="height:35px; margin-right:25px;" />
 </p>
 
