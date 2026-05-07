@@ -3,7 +3,11 @@ layout: page
 title: Experience
 ---
 
-## Experience
+<h2 style="margin:0; font-size:1.5em;">
+Experience
+</h2>
+</div>
+
 
 My professional experience in data analytics, automation, and business intelligence is summarized in my resume below.
 
