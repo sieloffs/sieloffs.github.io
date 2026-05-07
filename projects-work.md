@@ -5,6 +5,13 @@ title: Work Projects
 
 # Professional Data & Analytics Work
 
+<p align="left">
+  <img src="images/lids.png" style="height:35px; margin-right:20px;" />
+  <img src="images/newell.png" style="height:35px; margin-right:20px;" />
+  <img src="images/RCP.jpg" style="height:35px; margin-right:20px;" />
+  <img src="images/Rubbermaid.png" style="height:35px; margin-right:20px;" />
+</p>
+
 I’ve worked across BI, automation, and analytics roles where I build tools that turn messy data into something teams can actually use for decision making.
 
 In roles at **Newell Brands** and **Lids**, I’ve built dashboards, automation pipelines, and analytics systems supporting leadership across sales, forecasting, pricing, and operations.
