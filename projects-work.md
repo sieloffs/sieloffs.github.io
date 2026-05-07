@@ -12,6 +12,8 @@ title: Work Projects
   <img src="images/Rubbermaid.png" style="height:40px; margin-right:20px;" />
 </p>
 
+---
+
 I’ve worked across BI, automation, and analytics roles where I build tools that turn messy data into something teams can actually use for decision making.
 
 In roles at **Newell Brands** and **Lids**, I’ve built dashboards, automation pipelines, and analytics systems supporting leadership across sales, forecasting, pricing, and operations.
@@ -34,6 +36,7 @@ Projects focused on reducing manual work, connecting disconnected systems, and b
 
 ---
 ### D365 Upload Automation 
+#### Python | SQL | Azure
 
 <p align="left"> 
   <img src="images/python.jpg" style="height:25px; margin-right:15px;" /> 
@@ -51,8 +54,7 @@ Automated a daily manual process during a cloud database migration, saving 5+ ho
 ---
 
 ### Comprehensive Promotional Planning Tool
-
-Power Automate | Excel | Data Modeling
+#### Power Automate | Excel | Data Modeling
 
 Built a scalable promotional planning system that improved accuracy, and decision making accross teams.
 
