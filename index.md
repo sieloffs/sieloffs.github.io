@@ -24,9 +24,9 @@ I turn complex problems into simple, usable solutions in anything data related. 
 
 I’m very comfortable working with tools like Python, R, Power BI, and SQL, and I’m always looking to keep learning and push my skill set further.
 
-I’m currently finishing my Master’s in Applied Data Science at UNC (Go Heels!), where I’m focusing on deep learning and machine learning. Currently, I spend a lot of time experimenting with AI. Whether that’s building intelligent agents to improve reporting workflows or learning more about how neural networks actually work behind the scenes.
+I’m currently finishing my Master’s in Applied Data Science at UNC (Go Heels!), where I’m focusing on deep learning and machine learning.
 
-I also have a strong passion for sports analytics, and you’ll see a growing collection of those projects linked below. I’ve played competitive baseball throughout my life, including on the club baseball team at Purdue, which is where a lot of my interest in performance and data driven decision making started.
+I also have a strong passion for sports analytics, with projects linked below. I’ve played competitive baseball throughout my life, including on the club baseball team at Purdue, which is where a lot of my interest in performance and data driven decision making started.
 
 ---
 <div style="display:flex; justify-content:left; gap:14px; flex-wrap:wrap; margin:16px 0;">
