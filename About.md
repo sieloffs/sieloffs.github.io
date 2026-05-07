@@ -10,7 +10,7 @@ Sam Sieloff
 </h1>
 </div>
 
-<p align="Left">
+<p align="Center">
   <img src="images/Headshot.jpg" style="height:250px;" />
 </p>
 
