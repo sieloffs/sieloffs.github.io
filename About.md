@@ -75,19 +75,17 @@ Let's Connect!
 </h2>
 </div>
 
-If anything here caught your eye, please reach out! I’m always open to talking about collaborations or just chatting about sports, data, and anything in between.
-
+If anything here caught your eye, feel free to reach out I’m always open to talking about data, sports analytics, or potential collaborations.
 
 <div style="text-align:center; margin-top:25px;">
 
   <a href="https://www.linkedin.com/in/sam-sieloff-86a03116a/" target="_blank">
-    <img src="images/Linkedin.png" width="45" style="margin:10px;">
+    <img src="images/Linkedin.png" style="height:40px;">
   </a>
 
   <a href="mailto:sam.sieloff@outlook.com">
-    <img src="images/email.png" width="45" style="margin:10px;">
+    <img src="images/email.png" style="height:40px;">
   </a>
 
 </div>
-
 
