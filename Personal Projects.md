@@ -21,15 +21,15 @@ My interests center around applying data science to sports like **MLB, NASCAR, a
 
 <div style="display:flex; justify-content:left; gap:14px; flex-wrap:wrap; margin:16px 0;">
 
-<a href="/projects-work#WAR-Model" style="display:inline-block; padding:10px 16px; background:#000; color:#fff; border-radius:8px; text-decoration:none; font-weight:500;">
+<a href="/Personal Projects#WAR-Model" style="display:inline-block; padding:10px 16px; background:#000; color:#fff; border-radius:8px; text-decoration:none; font-weight:500;">
 MLB WAR Prediction Model
 </a>
 
-<a href="/projects-work#nhl-goalie" style="display:inline-block; padding:10px 16px; background:#000; color:#fff; border-radius:8px; text-decoration:none; font-weight:500;">
+<a href="/Personal Projects#nhl-goalie" style="display:inline-block; padding:10px 16px; background:#000; color:#fff; border-radius:8px; text-decoration:none; font-weight:500;">
 Goalie Selection Model
 </a>
 
-<a href="/projects-work#Pit-Stop" style="display:inline-block; padding:10px 16px; background:#000; color:#fff; border-radius:8px; text-decoration:none; font-weight:500;">
+<a href="/Personal Projects#Pit-Stop" style="display:inline-block; padding:10px 16px; background:#000; color:#fff; border-radius:8px; text-decoration:none; font-weight:500;">
 Pit Stop Performance Analysis
 </a>
 
