@@ -22,7 +22,7 @@ I’ve worked across BI, automation, and analytics roles where I build tools tha
 
 In roles at **Newell Brands** and **Lids**, I’ve built dashboards, automation pipelines, and analytics systems supporting leadership across sales, forecasting, pricing, and operations.
 
-No matter the role, my goal is: take raw data → clean it → automate it → turn it into decisions people actually use.
+My goal is to take complex problems and turn them into simple, usable solutions.
 
 <div style="display:flex; justify-content:left; gap:14px; flex-wrap:wrap; margin:16px 0;">
 
@@ -79,7 +79,7 @@ Automated a daily manual process during a cloud database migration, saving 5+ ho
 Built a scalable promotional planning system that improved accuracy, and decision making accross teams.
 
 - Created a single source of truth master planning file with built in governance and automation
--  Automatically created customer specific versions with security controls in place
+- Automatically created customer specific versions with security controls in place
 - Combined planning data with internal reporting sources to build a historical promotions database
 - Improved communication across teams and sped up decision making time
 
@@ -124,7 +124,7 @@ Built a daily Power BI report combining sales, budget, and forecast data into on
 - Added easy date filters for MTD, QTD, YTD, and custom periods
 - Built drill through pages to quickly spot biggest wins, losses, and trends
 - Sent daily to 100+ users across the company
-- Ended up ranked as a top 10 report out of 20,000+ internal reports
+- Currently ranked as a top 10 report out of 20,000+ internal reports
 
 ---
 
@@ -132,7 +132,7 @@ Built a daily Power BI report combining sales, budget, and forecast data into on
 
 #### Python | Power BI | DAX
 
-Built a reporting tool combining files from 20+ distributors so sales teams could actually use the data.
+Built a reporting tool combining files from 20+ distributors so sales teams could easily access their data.
 
 - Used Python fuzzy matching to clean up inconsistent names and addresses
 - Combined millions of rows into a Power BI model that ran smoothly
