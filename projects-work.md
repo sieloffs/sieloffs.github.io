@@ -86,6 +86,10 @@ Designed an internal AI agent that combined third party market data with interna
   <img src="images/sql.jpg" style="height:35px; margin-right:25px;" /> 
 </p>
 
+Projects focused on turning raw business data into dashboards and reporting tools that help leadership track performance, spot trends, and make faster decisions.
+
+---
+
 ### Daily Sales Reporting System
 
 #### Power BI | Data Modeling | Excel
@@ -114,6 +118,16 @@ Built a reporting tool combining files from 20+ distributors so sales teams coul
 ---
 
 # Analytics & Decision Science {#Analytics}
+
+<p align="left"> 
+  <img src="images/python.jpg" style="height:35px; margin-right:25px;" /> 
+  <img src="images/math.png" style="height:35px; margin-right:25px;" /> 
+  <img src="images/r.jpg" style="height:35px; margin-right:25px;" /> 
+</p>
+
+Projects focused on using data, modeling, and business logic to uncover opportunities, solve problems, and support smarter decision making.
+
+---
 
 ### MAP Pricing Compliance Database
 
