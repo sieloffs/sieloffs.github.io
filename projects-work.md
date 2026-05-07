@@ -11,71 +11,110 @@ My work focuses on transforming raw operational and sales data into clear, actio
 
 ---
 
-# Executive Reporting & Leadership Analytics
+# Automation & Data Engineering
+
+Projects focused on reducing manual work, connecting disconnected systems, and building scalable internal tools that help teams move faster with cleaner data.
+
+---
+
+### D365 Upload Automation
+
+Python | SQL | Azure
+
+Automated a daily manual process during a cloud database migration, saving 5+ hours per week and improving reliability.
+
+- Legacy systems still required daily uploads from Azure based data sources
+- Built a Python script to automatically retrieve files and load them into SQL
+- Added error checks so only exceptions needed manual review
+- Replaced a reptitive 1–2 hour daily task with an automated workflow
+
+---
+
+### Comprehensive Promotional Planning Tool
+
+Power Automate | Excel | Data Modeling
+
+Built a scalable promotional planning system that improved accuracy, and decision making accross teams.
+
+- Created a single source of truth master planning file with built in governance and automation
+-  Automatically created customer specific versions with security controls in place
+- Combined planning data with internal reporting sources to build a historical promotions database
+- Improved communication across teams and sped up decision making time
+
+---
+### AI Market Intelligence Agent
+
+Copilot Studio | Power Automate | Data Modeling
+
+Designed an internal AI agent that combined third party market data with internal company data.
+
+- Pulled third party market info into a structured and usable reporting model
+- Connected the model to an integrated Copilot AI agent for quick responses
+- Helped teams complete product reviews faster with easier access to data
+- Reduced switching between multiple systems and improved accuracy
+
+---
+
+# Business Intelligence & Reporting
 
 ### Daily Sales Reporting System
 
-Built a centralized Power BI reporting system that consolidates Sales, Budget, and Forecast data into a single automated daily report used by leadership across the organization.
+Power BI | Data Modeling | Excel
 
-- Integrated multiple data sources into a unified reporting model  
-- Delivered daily insights to 100+ stakeholders, including executive leadership  
-- Built interactive drill through pages to quickly identify variances between actuals, budget, and forecast  
-- Enabled faster decision making by highlighting key performance gaps and trends in near real time  
+Built a daily Power BI report combining sales, budget, and forecast data into one place for leadership.
 
----
-
-### Distribution Sell Through Reporting
-Built a centralized reporting system to track product sell through performance across 20+ customers, enabling sales teams to monitor distribution efficiency and identify performance gaps.
-
-- Ingested and consolidated raw data from 20+ customer systems  
-- Applied fuzzy matching logic to standardize product and customer naming conventions across inconsistent data sources  
-- Developed custom KPIs and visualizations to help sales teams quickly identify underperforming accounts and distribution issues  
-
----
-### Third Party Market Insights Dashboard
-
-Built an internal analytics dashboard integrating third party market data with company product hierarchies to enable competitive market analysis and strategic planning.
-
-- Partnered with external data providers to ingest and align market intelligence with internal reporting structures  
-- Developed custom mapping logic to connect external market data to internal product hierarchies  
-- Enabled analysis of market size, category trends, and competitive positioning  
-- Used in external customer meetings to support strategic planning and business discussions  
-
-# Business Automation 
-
-### Promotional Planning System
-
-Built an end to end promotional planning system used across sales, pricing, and finance teams to streamline planning, data sharing, and performance tracking.
-
-- Developed a master planning dataset that automatically distributes customer specific files based on access permissions and data governance rules  
-- Implemented automated versioning and archiving to support auditability and historical tracking  
-- Integrated third party data sources with internal planning inputs to create a unified promotional performance dataset  
-- Enabled cross functional usage across sales, pricing, and finance by linking promotional plans directly to sales performance data  
+- Pulled together data from finance and sales sources into one model
+- Added easy date filters for MTD, QTD, YTD, and custom periods
+- Built drill through pages to quickly spot biggest wins, losses, and trends
+- Sent daily to 100+ users across the company
+- Ended up ranked as a top 10 report out of 20,000+ internal reports
 
 ---
 
-### Third Party Seller Pricing Intelligence System
+### Distributor COGS Reporting
 
-Built a centralized database system that ingests third party web-scraped pricing data to monitor and enforce pricing compliance across sellers.
+Python | Power BI | DAX
 
-- Ingested and consolidated scraped pricing data into a structured SQL database used as a cross functional source of truth  
-- Developed Python based logic to identify repeat violations and classify sellers into penalty tiers based on internal compliance rules  
-- Supported enforcement communications by providing standardized, auditable records of pricing violations  
-- Recognized as a best in class internal solution and selected for enterprise-wide rollout
+Built a reporting tool combining files from 20+ distributors so sales teams could actually use the data.
 
----
-
-# Tools & Skills Used
-
-- SQL (data extraction, transformation, reporting layers)  
-- Power BI / Tableau (dashboard development)  
-- Excel (advanced modeling & reporting)  
-- Data modeling & KPI design  
-- Stakeholder communication & executive storytelling  
+- Used Python fuzzy matching to clean up inconsistent names and addresses
+- Combined millions of rows into a Power BI model that ran smoothly
+- Built exportable charts used in customer meetings
+- Helped teams spot opportunties and risks faster
 
 ---
 
-# 🔎 Related Work
+# Analytics & Decision Science
 
-- 🧠 [Personal Projects](/projects-personal)
-- 📁 [Main Projects Hub](/projects)
+### MAP Pricing Compliance Database
+
+SQL | Python | Web Scraping
+
+Built a system to track online sellers breaking pricing rules.
+
+- Loaded scraped pricing data into SQL daily
+- Built Python logic to flag violations and assign proper warning levels
+- Saved time compared to manual review
+- Chosen as a best in company solution for wider rollout
+
+
+---
+
+### Gap Opportunity Model
+
+Python | Statistics | Power BI
+
+Built a model to help sales reps find missed opportunities with customers.
+
+- Used buying patterns to estimate expected reorder behavior
+- Flagged accounts where purchases were below normal levels
+- Example: customer buys soap dispensers but not enough refills
+- Dashboard let reps filter by customer, rep, or region
+- Ranked biggest revenue opportunities first
+
+---
+
+# Related Work
+
+- [Personal Projects](/projects-personal)
+- [Main Projects Hub](/projects)
