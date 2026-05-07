@@ -86,16 +86,18 @@ Built a machine learning model using millions of NHL tracking data points to exp
 Worked with a team to move beyond traditional stats by focusing on recent performance trends using weighted game history and rolling metrics to better reflect how goalies are actually playing going into a game.
 
 
-<a href="https://colab.research.google.com/drive/1xLgFPd02bLSix9enssZa6-FV2z_4aMkM?usp=sharing" 
-   target="_blank"
-   style="display:inline-block; padding:8px 12px; background:#000; color:#fff; border-radius:6px; text-decoration:none;">
-   Open Notebook
+<div style="display:flex; justify-content:left; gap:14px; flex-wrap:wrap; margin:16px 0;">
 
-<a href="/images/Final_Report_DATA780.pdf" 
-   target="_blank"
-   style="display:inline-block; padding:8px 12px; background:#000; color:#fff; border-radius:6px; text-decoration:none; margin-left:8px;">
-   Full Report
+<a href="https://colab.research.google.com/drive/1xLgFPd02bLSix9enssZa6-FV2z_4aMkM?usp=sharing" target="_blank" style="display:inline-block; padding:10px 16px; background:#000; color:#fff; border-radius:8px; text-decoration:none; font-weight:500;">
+Open Notebook
 </a>
+
+<a href="/images/Final_Report_DATA780.pdf" target="_blank" style="display:inline-block; padding:10px 16px; background:#000; color:#fff; border-radius:8px; text-decoration:none; font-weight:500;">
+Full Report
+</a>
+
+</div>
+
 
 ---
 <div id="Pit-Stop" style="border:1px solid #d0d7de; padding:16px 20px; border-radius:10px; margin:20px 0; background:#f6f8fa; text-align:center;">
