@@ -3,9 +3,13 @@ layout: home
 title: Welcome!
 ---
 
-# Hi, I’m Sam Sieloff
+<div style="border:1px solid #d0d7de; padding:16px 20px; border-radius:10px; margin:20px 0; background:#f6f8fa; text-align:center;">
 
-<p align="left">
+<h1 style="margin:0; font-size:1.5em;">
+ Hi, I'm Sam Sieloff
+</h1>
+
+<p align="center">
   <img src="images/Headshot.jpg" style="height:200px;" />
 </p>
 
