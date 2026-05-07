@@ -28,10 +28,17 @@ No matter the role, my goal is: take raw data → clean it → automate it → t
 - [Automation & Data Engineering](/projects-work#Automation)
 - [Business Intelligence & Reporting](/projects-work#BI)
 - [Analytics & Decision Science](/projects-work#Analytics)
-  
+<br>
+
 ---
 
-# Automation & Data Engineering {#Automation}
+<div id="Automation" style="border:1px solid #d0d7de; border-radius:10px; padding:16px 20px; margin:20px 0; background:#f6f8fa;">
+
+## Automation & Data Engineering
+
+Projects focused on reducing manual work, connecting disconnected systems, and building scalable internal tools that help teams move faster with cleaner data.
+
+</div>
 
 <p align="left"> 
   <img src="images/python.jpg" style="height:35px; margin-right:25px;" /> 
