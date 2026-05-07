@@ -5,13 +5,22 @@ title: Work Projects
 
 # Professional Data & Analytics Work
 
-In my professional role as a Data Analyst, I’ve built scalable reporting systems, dashboards, and analytics solutions supporting senior leadership decision-making at companies including **Newell Brands** and **Lids**.
+I’ve worked across BI, automation, and analytics roles where I build tools that turn messy data into something teams can actually use for decision making.
 
-My work focuses on transforming raw operational and sales data into clear, actionable insights used across teams for forecasting, performance tracking, and strategic planning.
+In roles at **Newell Brands** and **Lids**, I’ve built dashboards, automation pipelines, and analytics systems supporting leadership across sales, forecasting, pricing, and operations.
+
+No matter the role, my goal is: take raw data → clean it → automate it → turn it into decisions people actually use.
 
 ---
 
-# Automation & Data Engineering
+## Sections
+
+- [Automation & Data Engineering](#automation)
+- [Business Intelligence & Reporting](#BI)
+- [Analytics & Decision Science](#Analytics)
+---
+
+# Automation & Data Engineering {#Automation}
 
 Projects focused on reducing manual work, connecting disconnected systems, and building scalable internal tools that help teams move faster with cleaner data.
 
@@ -20,9 +29,9 @@ Projects focused on reducing manual work, connecting disconnected systems, and b
 ### D365 Upload Automation
 
 <p align="left">
-  <img src="images/python.jpg" style="height:28px; margin-right:10px;" />
-  <img src="images/sql.png" width="28" alt="SQL Server" style="height:28px; margin-right:10px;" />
-  <img src="images/Azure.png" style="height:28px; margin-right:10px;" />
+  <img src="images/python.jpg" style="height:35px; margin-right:25px;" />
+  <img src="images/sql.png" width="28" alt="SQL Server" style="height:35px; margin-right:25px;" />
+  <img src="images/Azure.png" style="height:35px; margin-right:25px;" />
 </p>
 
 Automated a daily manual process during a cloud database migration, saving 5+ hours per week and improving reliability.
