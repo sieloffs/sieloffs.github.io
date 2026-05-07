@@ -44,9 +44,11 @@ Interests Outside of Work
 
 When I’m not working with data, I’m usually:
 
+---
+
 ### Watching some of favorite teams
   
-<p align="left">
+<p align="center">
   <img src="images/Brewers 1.png" width="100" style="margin: 10px;">
   <img src="images/Packers.png" width="100" style="margin: 10px;">
   <img src="images/Purdue.jpg" width="100" style="margin: 10px;">
