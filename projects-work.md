@@ -35,12 +35,12 @@ No matter the role, my goal is: take raw data → clean it → automate it → t
 Projects focused on reducing manual work, connecting disconnected systems, and building scalable internal tools that help teams move faster with cleaner data.
 
 ---
-<h2>
+<h3>
    D365 Upload Automation:  
-  <img src="images/python.jpg" style="height:20px; margin-right:5px;" /> 
-  <img src="images/sql.jpg" style="height:20px; margin-right:5px;" /> 
-  <img src="images/Azure.png" style="height:20px; margin-right:5px;" /> 
-</h2>
+  <img src="images/python.jpg" style="height:30px;" /> 
+  <img src="images/sql.jpg" style="height:30px;" /> 
+  <img src="images/Azure.png" style="height:30px;" /> 
+</h3>
 
 #### Python | SQL | Azure
 
