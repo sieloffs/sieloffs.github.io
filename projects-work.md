@@ -22,9 +22,9 @@ Projects focused on reducing manual work, connecting disconnected systems, and b
 Python | SQL | Azure
 
 <p align="left">
-  <img src="python.jpg" width="28" alt="Python" />
-  <img src="sql.png" width="28" alt="SQL Server" hspace = "8" />
-  <img src="Azure.png" width="28" alt="Azure" hspace = "8"/>
+  <img src="images/python.jpg" width="28" alt="Python" />
+  <img src="images/sql.png" width="28" alt="SQL Server" hspace = "8" />
+  <img src="images/Azure.png" width="28" alt="Azure" hspace = "8"/>
 </p>
 
 Automated a daily manual process during a cloud database migration, saving 5+ hours per week and improving reliability.
